@@ -3,7 +3,7 @@
 ✔ Site de previsão do tempo (desktop e mobile)
 
 
-📌Mostra a temperatura em graus celsius dos lugares e a umidade utilizando uma API (OpenWeather) 
+📌Mostra a temperatura em graus Celsius dos lugares e a umidade utilizando uma API (OpenWeather) 
 
 📌Com fundo de imagem alternativo a cada entrada.
 
